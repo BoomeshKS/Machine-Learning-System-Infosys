@@ -1,0 +1,11 @@
+{
+    "project_name": "Smart Agriculture AI",
+    "project_type": "Startup",
+    "industry": "Agriculture",
+    "business_model": "SaaS",
+    "target_market": "Indian Farmers",
+    "budget": 500000,
+    "description": "AI based crop disease detection system",
+    "objectives": "Identify crop diseases using images",
+    "competitors": "Plantix, Cropin"
+}
